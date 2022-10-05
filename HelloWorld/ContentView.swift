@@ -3,7 +3,7 @@
 //  HelloWorld
 //
 //  Created by Yongjae Lim on 10/4/22.
-//
+//  This line is for testing Github connection
 
 import SwiftUI
 
